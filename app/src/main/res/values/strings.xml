@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Project3</string>
+    <string name="appbar_title_settings">Settings</string>
+    <string name="appbar_title_spinner">Spinner</string>
+    <string name="settings_option_title">Info</string>
+    <string name="settings_option_key">Settings Option</string>
+    <string name="settings_option_summary">Select which site to get JSON data from</string>
+    <string name="alertdialog_title">No Network Connection</string>
+    <string name="alertdialog_message">The Network is unavailable. Please try your request again later</string>
+    <string name="image_ext">pets.json</string>
+    <string name="illegal_arg_exception">Activity cannot be null</string>
+    <string name="error_message">Error 404</string>
+
+</resources>
